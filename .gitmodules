@@ -13,3 +13,6 @@
 [submodule "lesson1/1.4.1-formattedoutput"]
 	path = lesson1/1.4.1-formattedoutput
 	url = https://github.com/timofonic-dam-java-exercises/1.4.1-formattedoutput2
+[submodule "lesson1/1.5.1-showmodule"]
+	path = lesson1/1.5.1-showmodule
+	url = https://github.com/timofonic-dam-java-exercises/1.5.1-showname/

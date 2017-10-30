@@ -7,3 +7,6 @@
 [submodule "lesson1/1.3-specialcharacters"]
 	path = lesson1/1.3-specialcharacters
 	url = https://github.com/timofonic-dam-java-exercises/1.3-specialcharacters
+[submodule "lesson1/1.4-formattedoutput"]
+	path = lesson1/1.4-formattedoutput
+	url = https://github.com/timofonic-dam-java-exercises/1.4-formattedoutput/

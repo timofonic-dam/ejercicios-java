@@ -16,3 +16,11 @@
 [submodule "lesson1/1.5.1-showmodule"]
 	path = lesson1/1.5.1-showmodule
 	url = https://github.com/timofonic-dam-java-exercises/1.5.1-showname/
+[submodule "1.5.2-shownameaddressphone"]
+	path = 1.5.2-shownameaddressphone
+	url = https://github.com/timofonic-dam-java-exercises/1.5.1-showname/
+	branch = shownameaddressphone
+[submodule "lesson1/1.5.2-shownameaddressphone"]
+	path = lesson1/1.5.2-shownameaddressphone
+	url = https://github.com/timofonic-dam-java-exercises/1.5.1-showname/
+	branch = shownameaddressphone
